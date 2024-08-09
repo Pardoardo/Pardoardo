@@ -1,6 +1,6 @@
+<img height="50" src="https://media.discordapp.net/attachments/1271311200508182549/1271597808985837688/pardoardo_white.png?ex=66b7eb3e&is=66b699be&hm=a93d401913f9ebc9b883e226a11b1a5c8389894b98ebf0969bdddc6329f26c54&=&format=webp&quality=lossless&width=655&height=121">
 <b>Olá, meu nome é Eduardo! Eu faço projetos aleatórios.</b>
 <hr>
-
 <p>🦾 Eu tenho experiência em:</p>
 
 <span><img height="14" src="https://media.discordapp.net/attachments/1271311200508182549/1271589192446644306/javascript.png?ex=66b7e338&is=66b691b8&hm=e9903c0421196d2036973edd78a56edf59f7e732bf3ad816c29e97de07de0de5&=&format=webp&quality=lossless&width=192&height=192"> <b>JavaScript</b> >> Principal linguagem dos meus projetos.</span>
